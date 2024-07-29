@@ -1,0 +1,10 @@
+.card{
+    height: 350px;
+    background-color: #352336;
+    margin-top: 20px;
+    color: white;
+    
+}
+.card-title{
+    margin-bottom: 20px;
+}
